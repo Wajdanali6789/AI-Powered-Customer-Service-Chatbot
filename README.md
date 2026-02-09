@@ -1,10 +1,12 @@
 # AI-Based Customer Service Chatbot
 
-> FINAL YEAR PROJECT SYNOPSIS
+``` markdown
+FINAL YEAR PROJECT
+```
 
 ## 1. Introduction
 
-> In today's digital era, organizations are increasingly focusing on ehnhancing customer experience through automation and artificial intelligence. Customer service plays a critical role in maintaining customer satisfaction, loyalty, and brand reputation. Traditional customer support systems often suffer from delayed responses and high operational costs. Artificial Intelligence (AI) based chatbots provide an effective solution by offering automated, intelligent, and real-time interaction with customers.
+> In today's digital era, organizations are increasingly focusing on enhancing customer experience through automation and artificial intelligence. Customer service plays a critical role in maintaining customer satisfaction, loyalty, and brand reputation. Traditional customer support systems often suffer from delayed responses and high operational costs. Artificial Intelligence (AI) based chatbot provide an effective solution by offering automated, intelligent, and real-time interaction with customers.
 
 ## 2. Problem Statement
 
@@ -18,7 +20,7 @@
 - Improve customer satisfaction through intelligent responses
 - Provide a scalable solution for future business needs
 
-## 4. Scopre
+## 4. Scope
 
 > The chatbot will provide text based interaction, handle frequently asked questions, and offer relevant information to customers. Future enhancements may include voice support and multilingual capabilities.
 
@@ -28,14 +30,14 @@
 
 ## 6. Tools & Technologies
 
->- **Programming Languages**: Python & JavaScript/TypeScript
->- **Frameworks**: React, Django, Tailwind CSS
->- **Database**: PostgreSQL / MySQLite
->- **Libraries**: NLTK, spaCy, TensorFlow
+- **Programming Languages**: Python & JavaScript/TypeScript
+- **Frameworks**: React, Django, Tailwind CSS
+- **Database**: PostgreSQL / MySQLite
+- **Libraries**: NLTK, spaCy, TensorFlow
 
 ## 7. Expected Outcomes
 
-> A functional AI based customer service chatbot that improves response time, recuces costs, and enhances customer satisfaction.
+> A functional AI based customer service chatbot that improves response time, reduces costs, and enhances customer satisfaction.
 
 ## 8. Conclusion
 
